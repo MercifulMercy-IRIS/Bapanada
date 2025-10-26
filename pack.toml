@@ -1,0 +1,13 @@
+name = "Packwiz"
+author = "Mercy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f0621ba3ccfda555143500fcaa443d197499086d1de6c070ff2a62bc706c3e47"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
