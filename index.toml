@@ -426,6 +426,11 @@ hash = "a9102d609587827231935f8fb6f2998c082e84ba4e4af69c8164a6cc7a95d10a"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "01bf83ea81f3e6670f4db3141dca03224f1d79b95a862277a0e8e259d25af46f"
+metafile = true
+
+[[files]]
 file = "mods/fruits-delight.pw.toml"
 hash = "821a57b81167df406b46949a3bf8c150466b63327d63ab4da142efea0e869c48"
 metafile = true
@@ -473,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/ftbranks.pw.toml"
 hash = "9dcdaa268f5c7692d4fbf62a8aac8c9f0b8b07e5c4235798dfe7857a328b9d89"
+metafile = true
+
+[[files]]
+file = "mods/ftbteams.pw.toml"
+hash = "3f8956b5c3350165a05255472366bcd62cc31d4dbbff04796fec6a7a392b1a29"
 metafile = true
 
 [[files]]
@@ -943,6 +953,11 @@ metafile = true
 [[files]]
 file = "mods/twilight.pw.toml"
 hash = "a4a3e9c9a1c8e05245dc950e6a511196985fd8ff209e0181bbe88d447ffecedb"
+metafile = true
+
+[[files]]
+file = "mods/twilightforest.pw.toml"
+hash = "e386555ee14d524bdda7b7d22679510fb6de362d8fe84c00a82151457029490a"
 metafile = true
 
 [[files]]
