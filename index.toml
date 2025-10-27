@@ -156,6 +156,11 @@ hash = "9056efc6e7f2c0cd14f6015712897514132c7c1fa2cdfc075c649cfdf7db095c"
 metafile = true
 
 [[files]]
+file = "mods/brainrot.pw.toml"
+hash = "b5efbd6e6d0de21c07a57a2dfd44658c7d727d182a67a8d8584b2dbabad7f01f"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "a4d8233f87131314f6acc4eb91d671b77897d2e7a4621257fe78c89e49e6d3c6"
 metafile = true
@@ -266,6 +271,11 @@ hash = "a4c01d56e9c825daf3ee7e8181b4dcb2367f33ec154d04db5c2897a39edc70c6"
 metafile = true
 
 [[files]]
+file = "mods/cobblemore-lib.pw.toml"
+hash = "d3087ee467640c457e793cad194ebc6234e4b4414c9d63015ee4aacebd96c024"
+metafile = true
+
+[[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "c179932f3b43612ddcddce24757d62f68147c7a17880ccceed8c41e4a5de7146"
 metafile = true
@@ -273,6 +283,16 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "1271fe47b105f5eb46d659ea79b0e7323a56288830d6af991f6bccc9d23eddc6"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "85e5fea0081c0894383c7292b7ba9ad6f7cb1f3cece0a54195cee942bd13a9b8"
+metafile = true
+
+[[files]]
+file = "mods/confetticreeper.pw.toml"
+hash = "cfb7740268240013f0699bb779024ed3d564c671ad7ac901b9f0ba8544d52391"
 metafile = true
 
 [[files]]
@@ -288,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/corn-delight.pw.toml"
 hash = "52de3e81390f1f13510292758355b695ce23c01ca3731e33aeba0a3cefb58290"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "59c7395bcc6d6f80b8d33e615004875a7c7224756c6be68d912e5d3e31181410"
 metafile = true
 
 [[files]]
@@ -312,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/crayfishfurn.pw.toml"
-hash = "9bd78f6f18e93ab1770c21c71bd53d8155160298eccd5ddbeee5ea44be98b93c"
+hash = "42ff9fa5554b661327caacb3ce86740d6e83b7acd982c35db118196899188e1f"
 metafile = true
 
 [[files]]
@@ -338,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "5ecbf467cb13bfce1da0497fdd59dd8e5ec29eaf6649d0964daf6b7faf3049c5"
+metafile = true
+
+[[files]]
+file = "mods/dark-utilities.pw.toml"
+hash = "c4423fb97a9c6d397f487428ec2bc323be387aec3c1758ff64e4cd07bdf480f5"
 metafile = true
 
 [[files]]
@@ -516,8 +546,23 @@ hash = "01bfb04584f7ea2cbaa9e5eac0cb60f5668f0aaf1110b1edf6ba55c13351778e"
 metafile = true
 
 [[files]]
+file = "mods/guard-ribbits.pw.toml"
+hash = "601c022f2060bca92c3016a7c7411339850f771bef4a1d4bb925dcef5a188b59"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "056574655c12b8773391edd65c45428d971716ddde50ba230bbd0a9b10d9ccc8"
+metafile = true
+
+[[files]]
+file = "mods/hostileneural.pw.toml"
+hash = "2e8c5269b2959fdd428a40cf5a34b550cbdb399785c8f84d08e32d46a4399bbd"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "c8a679e8c2b3b3982b53fbe2d7719aed9b6df050bfc6a885045e14e7737d6cc4"
 metafile = true
 
 [[files]]
@@ -588,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/lootintmoog.pw.toml"
 hash = "bd0e73588155f3263ffd59c04a86ed17a2ff0865d81553d2e16d69c75ec7abb3"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "feca94e94b280af2b8a1b6f417ae7b84de829913b74962015ef8ca55b54793c3"
 metafile = true
 
 [[files]]
@@ -736,6 +786,11 @@ hash = "6b0ebf2cf12537a27407e37f3f138027529e39549d567ed4ad1d2fc338fc59c0"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "7d1d4db823974ae59e13563dd33b39905eac32d2037646bb91f175a90caf1e46"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "1873a33811f832f1c2117da8ddef9799a444c8884b331755742ef61c2f53418b"
 metafile = true
@@ -833,6 +888,11 @@ metafile = true
 [[files]]
 file = "mods/ribbits.pw.toml"
 hash = "72d82887f0418b0616eca84458e5ab6ebaa6cd0b789a00e3b7eab7ba3006514e"
+metafile = true
+
+[[files]]
+file = "mods/rotten-flesh-to-leather-by-tia.pw.toml"
+hash = "e6d6f8230af425875346d15e3a6752e08cac13e6adbd07a185d1b1e5153acabc"
 metafile = true
 
 [[files]]
@@ -988,6 +1048,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "943af01407af4818f949fe12f6fe7164b193efd2789601150fa21f8185e91838"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ac17eda813f17fb719176b1fe74577160e886001b7b8e1025a6b477ca81e020d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "15a0f98dacca9c151c525b76ca8518f5a92939e9db957d8b0f5fe7bcf190dbec"
 metafile = true
 
 [[files]]
