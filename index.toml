@@ -341,6 +341,16 @@ hash = "42ff9fa5554b661327caacb3ce86740d6e83b7acd982c35db118196899188e1f"
 metafile = true
 
 [[files]]
+file = "mods/craygunmod.pw.toml"
+hash = "f9f1fd813cb98ace4af0adb181852874d565844b2223bff8ec28957f675fb69c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "e78d712e7cc2d3ee8b452d48d1c8c60f93753992d8eeaf6eda9087cf6ce26bbd"
+metafile = true
+
+[[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "757e8adefef143b289608fb6aa53554d5da40a709e0e5ee97c43a69a1a618d6f"
 metafile = true
@@ -638,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/luckyblocks.pw.toml"
 hash = "1f26ca87f27e62521c1d3013c1f95977b9cb0fab351d399c83205675550fd942"
+metafile = true
+
+[[files]]
+file = "mods/lustcraft.pw.toml"
+hash = "b8b7a7696525c134bf48d24287cfb87db855413bdfe9ef82883ecabdf52a3974"
 metafile = true
 
 [[files]]

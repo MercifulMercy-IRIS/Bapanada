@@ -1,0 +1,8 @@
+name = "LustCraft"
+filename = "lustcraft-0.11.1.jar"
+side = "both"
+
+[download]
+url = "https://www.mediafire.com/file/sr3dpbd3fbcx5rk/lustcraft-0.11.1.jar/"
+hash-format = "sha256"
+hash = "9240810973b6a42b3aa5cff25f21b8b50934c756fee09f02c2d0d63807ea850a"
