@@ -411,16 +411,6 @@ hash = "669991ae6ecfe6a6911779234560d0c21b3963de84c4024d61e8372b06eedb5c"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "cfefce5c305ca266d2a3685f8f4d0d258b550afaa62d514761ae5e8fec48699a"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "9164b39a7f5dd2ae42e2760aacfb7a0090ceb50a395069e91465220b713ccac7"
-metafile = true
-
-[[files]]
 file = "mods/epherolib.pw.toml"
 hash = "06801914f33ae07a006f295821b0c887fdd9218d95051863d553fb6c4c193678"
 metafile = true
