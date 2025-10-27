@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/lustcraft.pw.toml"
-hash = "b8b7a7696525c134bf48d24287cfb87db855413bdfe9ef82883ecabdf52a3974"
+hash = "acbf7adcf606f9a0862a21ab5029918e92108f4028ae85c6bddf5c75fc455234"
 metafile = true
 
 [[files]]
