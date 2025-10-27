@@ -651,11 +651,6 @@ hash = "1f26ca87f27e62521c1d3013c1f95977b9cb0fab351d399c83205675550fd942"
 metafile = true
 
 [[files]]
-file = "mods/lustcraft.pw.toml"
-hash = "acbf7adcf606f9a0862a21ab5029918e92108f4028ae85c6bddf5c75fc455234"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "add17153224b5d8205784d2fe4f67f2682f1208d2077fec357f332acc370f630"
 metafile = true

@@ -1,8 +1,0 @@
-name = "LustCraft"
-filename = "lustcraft-0.11.1.jar"
-side = "both"
-
-[download]
-url = "http://enviouslabs.com/lustcraft-0.11.1.jar"
-hash-format = "sha256"
-hash = "c34af723ed66af7c20b56dfdeaa8fa6ad78dce44d57732e5cbac27b38b667aa9"
