@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-pok-ball-swap.pw.toml"
-hash = "e66dd01c221b8f29f775c8d2b5be7d7bde1326d386495791079b2eb3f01530ed"
+hash = "62385b8b6f7877c5940bb42b98bded4b7a07fada25c6ab03cc615a569aea5588"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystone-towers.pw.toml"
-hash = "edea42609945e2fca5eec222a1edf7d39e62537dd0c691a9d86f340e24b17230"
+hash = "733ed8c9ab026219269b1155c8a7a1b4134fc7f4b9a137149d1abcf34787e814"
 metafile = true
 
 [[files]]

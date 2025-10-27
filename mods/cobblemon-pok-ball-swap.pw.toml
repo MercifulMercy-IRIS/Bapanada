@@ -1,6 +1,6 @@
 name = "Cobblemon Poké ball Swap"
 filename = "cobblemon_pokeball_swap-1.1.0-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/3VEQzUQ3/versions/i1dfBEJn/cobblemon_pokeball_swap-1.1.0-forge.jar"
