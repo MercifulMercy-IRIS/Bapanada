@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
-hash = "c4517a7a504fd95248453655cddff09a774d0ff760a0b3a6a847b65617f0b685"
+hash = "20de87f095e5b9b5b6de7498cf933574390d5e7449a23690044d257c60de0bb8"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "94c874a56d476a54465923201a533b3e00676bd73575f26fc2ee3250adf7bfd9"
+hash = "c195fc922e0f368f35cdeba9ceb84e9e4d5fcdb453402fe551d004fe26ffea21"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "8c1b55d29559d89437272f58baee1d142898b0a1a2a105f0d419cef208c3ce3d"
+hash = "188075d5f8bbbfe5ec57376b16ad4c6da6a44f67ae6abedcabb63a36da161246"
 metafile = true
 
 [[files]]
@@ -382,12 +382,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9eb391a3ddd6b1fce680906177180763829461c0b79a209f141b333ba69fbd38"
+hash = "cfefce5c305ca266d2a3685f8f4d0d258b550afaa62d514761ae5e8fec48699a"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "e91ef5a6af56e00a1d5ae4f0488401d35dbe37efb3b1d673d19bf20095dce3a5"
+hash = "9164b39a7f5dd2ae42e2760aacfb7a0090ceb50a395069e91465220b713ccac7"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/female-gender.pw.toml"
-hash = "262cdb5fed8740a5153b7883a924fae9ca513e1c8594e6a7a19337c0d0510362"
+hash = "bdcfc5e911507971ce5b5ffbd30f3351e5771295a0a5ecb60bab3beefeed5911"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "a0bc07a0a1ffb70c89aeb8045c249a129976620ce669b51de7ebeec42f9a746b"
+hash = "61e1eb6db8b0e7ec159313227a978bfdad42a050ea48397ad9990a7ebde34f9d"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "d29b209fde3072e8307f59278e949d103da853ff8ed62bf1f367338d5f4acc77"
+hash = "6b887ac896a15af7a69814e29ef91a9eb799d899cc6cdb9d156dc0ce4aaaaa08"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
-hash = "36fefafa500ed2d09e8b291c02a9d19d73e82e684db7bbe667139def8b696727"
+hash = "b57c4d24c6d3a0cee3f695eccfe73c9f8ab9cca2e4c7a23c7a10877556a6d2a7"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "7413ac1f2a265807ed2beb0ed96a3c42e055210c15dcf77a6e8e4a7ce70aaf1e"
+hash = "ce67ce1279a18fab80d6489161cb68c90767821459a82311acf74d35cab999fb"
 metafile = true
 
 [[files]]
@@ -727,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "c128b30b14ad0f4c51741794948b1bb71b029d5b09dc069b28e6687019db5b29"
+hash = "1873a33811f832f1c2117da8ddef9799a444c8884b331755742ef61c2f53418b"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "58f5287a228d8feeed9ff1110b71cea3520b7c26187fa957834b65ac28044bda"
+hash = "3e33276ee18e98daebe26e6dce7fe0a703fa5cce3eec1ff2383aab3bbe32d5e7"
 metafile = true
 
 [[files]]
@@ -947,7 +947,7 @@ metafile = true
 
 [[files]]
 file = "mods/ui-lib.pw.toml"
-hash = "304f836b36628b6c8105540ae5a407e967187e7f0833b18c41da7bd3f9043381"
+hash = "eadac3e8869faf8d0bd5b7447f00ffdfcb2684eb56a3c89bde27d02a126db311"
 metafile = true
 
 [[files]]

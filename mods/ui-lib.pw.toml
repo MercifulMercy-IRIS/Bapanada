@@ -1,6 +1,6 @@
 name = "UI Lib"
 filename = "uilib-0.3.6-forge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AOEDs9Al/versions/GizE27iH/uilib-0.3.6-forge.jar"

@@ -1,6 +1,6 @@
 name = "Neko's Enchanted Books"
 filename = "NekosEnchantedBooks-1.19.3-2.0.3.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VZWuyRVr/versions/VpA4roMg/NekosEnchantedBooks-1.19.3-2.0.3.jar"
